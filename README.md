@@ -1,3 +1,3 @@
-## TodoList with React
+# TodoList with React & TailwindCss
 
 
